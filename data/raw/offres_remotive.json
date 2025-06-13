@@ -1,0 +1,23 @@
+[
+    {
+        "id": "rem1",
+        "titre": "Data Analyst",
+        "entreprise": "RemoteCorp",
+        "lieu": "Remote",
+        "description": "Analyse de données marketing et création de dashboards interactifs."
+    },
+    {
+        "id": "rem2",
+        "titre": "Data Scientist",
+        "entreprise": "AI Solutions",
+        "lieu": "Remote",
+        "description": "Développement de modèles de machine learning sur de grands ensembles de données."
+    },
+    {
+        "id": "rem3",
+        "titre": "Data Engineer",
+        "entreprise": "BigData Co.",
+        "lieu": "Remote",
+        "description": "Mise en place de pipelines ETL et optimisation de l'infrastructure de données."
+    }
+]
